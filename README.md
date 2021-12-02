@@ -1,2 +1,2 @@
 # TheExplorer
-Web based files explorer
+Web based file explorer
